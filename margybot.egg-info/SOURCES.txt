@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+margybot/__init__.py
+margybot/client.py
+margybot/dispatcher.py
+margybot/errors.py
+margybot/filters.py
+margybot/proxy.py
+margybot/types.py
+margybot.egg-info/PKG-INFO
+margybot.egg-info/SOURCES.txt
+margybot.egg-info/dependency_links.txt
+margybot.egg-info/requires.txt
+margybot.egg-info/top_level.txt
